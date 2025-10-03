@@ -1,9 +1,9 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
 
-https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.xml
 https://gitee.com/mytv-android/myepg/raw/master/output/epg.xml
+#https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.xml
+https://epg.pw/xmltv/epg_TW.xml
+https://iptv-epg.org/files/epg-tw.xml
+https://epg.pw/xmltv/epg_HK.xml
 http://epg.51zmt.top:8000/e.xml
-https://e.erw.cc/e.xml
-https://raw.githubusercontent.com/fanmingming/live/main/e.xml
-https://assets.livednow.com/epg.xml
