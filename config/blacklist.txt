@@ -1,6 +1,5 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
-/audio/
 epg.pw
 skype.serv00.net
 iptv.yjxfz.com
@@ -35,5 +34,6 @@ ali-m-l.cztv.com/channels/lantian/channel12/
 ]/
 chinamobile.com
 live/bfgd/
+#/rtp/
 /udp/
 migu.188766.xyz
