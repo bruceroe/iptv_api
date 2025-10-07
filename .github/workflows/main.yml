@@ -65,3 +65,15 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+
+           - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/bruceroe'    			
+          dst: 'gitee/bruce_roe'   
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
+          dst_token:  ${{ secrets.GITEE_TOKEN }}  
+          force_update: true
+          static_list: "iptv_api"
+          account_type: org   		
+          debug: true
