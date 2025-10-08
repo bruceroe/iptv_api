@@ -65,7 +65,7 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
-           - name: Mirror the Github organization repos to Gitee.
+      - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
           src: 'github/bruceroe'    			
