@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '5 8,20 * * *'
   workflow_dispatch:
     branches:
       - master
@@ -74,5 +74,5 @@ jobs:
           dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
           static_list: "iptv_api"
-          account_type: org   		
+          account_type: user   		
           debug: true
