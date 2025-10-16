@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: '5 8,20 * * *'
   workflow_dispatch:
     branches:
       - master
@@ -65,3 +65,14 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/bruceroe'    			
+          dst: 'gitee/bruce_roe'   
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
+          dst_token:  ${{ secrets.GITEE_TOKEN }}  
+          force_update: true
+          static_list: "iptv_api"
+          account_type: user   		
+          debug: true
