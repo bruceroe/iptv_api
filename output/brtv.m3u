@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2025-10-18 04:45:25
-http://106.53.99.30/tv/api.php?id=hebtv4k
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2025-10-18 16:53:07
+http://106.53.99.30/tv/api.php?id=sztv4k
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/苏州4K.png" group-title="🍀超清",苏州4K
+http://106.53.99.30/tv/api.php?id=sztv4k
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/苏州4K.png" group-title="🍀超清",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北4K.png" group-title="🍀超清",河北4K
 http://106.53.99.30/tv/api.php?id=hebtv4k
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北4K.png" group-title="🍀超清",河北4K
@@ -58,47 +62,45 @@ https://hls-gateway.vpstv.net/streams/708845.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江生活.png" group-title="☘️浙江",浙江生活
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江生活.png" group-title="☘️浙江",浙江生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江生活.png" group-title="☘️浙江",浙江生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江生活.png" group-title="☘️浙江",浙江生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江生活.png" group-title="☘️浙江",浙江生活
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江经济生活.png" group-title="☘️浙江",浙江经济生活
-http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江经济生活.png" group-title="☘️浙江",浙江经济生活
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影视.png" group-title="☘️浙江",浙江教科影视
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影视.png" group-title="☘️浙江",浙江教科影视
-http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影视.png" group-title="☘️浙江",浙江教科影视
 http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+#EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江数码时代.png" group-title="☘️浙江",浙江数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江数码时代.png" group-title="☘️浙江",浙江数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
 #EXTINF:-1 tvg-name="浙江教科影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影院.png" group-title="☘️浙江",浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江公共新闻.png" group-title="☘️浙江",浙江公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生休闲.png" group-title="☘️浙江",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生休闲.png" group-title="☘️浙江",浙江民生休闲
-http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生休闲.png" group-title="☘️浙江",浙江民生休闲
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江国际.png" group-title="☘️浙江",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江国际.png" group-title="☘️浙江",浙江国际
-http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江国际.png" group-title="☘️浙江",浙江国际
 http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
-#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江经视.png" group-title="☘️浙江",浙江经视
-http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科.png" group-title="☘️浙江",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科.png" group-title="☘️浙江",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江新闻.png" group-title="☘️浙江",浙江新闻
-http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江新闻.png" group-title="☘️浙江",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江新闻.png" group-title="☘️浙江",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教育.png" group-title="☘️浙江",浙江教育
-http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 tvg-name="浙江休闲台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江休闲台.png" group-title="☘️浙江",浙江休闲台
+http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教育.png" group-title="☘️浙江",浙江教育
 http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生.png" group-title="☘️浙江",浙江民生
@@ -106,7 +108,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="上虞文化影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/上虞文化影视.png" group-title="☘️浙江",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20251017080056226ebc1ff83d4cd080ca4f3375a7bc56&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20251017080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=106.13.250.89&SecurityKey=20251017080056&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b3962ea902c4cc911049255eb665965b&ddCalcu=bb53e6919665206e6ab9e0525c249c4c0911
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=202510180800538faa0de5a7c54543b8db4f64ccfbe907&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20251018080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=106.13.250.90&SecurityKey=20251018080053&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b302bf55e29cc7de28d180ddcc1fff17&ddCalcu=7b13ef01f26fb01fc5c5ded2098c1cd78d2e
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
 http://z.b.bkpcp.top/m.php?id=jsys
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
@@ -126,7 +128,7 @@ http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=2025
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
 https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20251017080056b8bd1e199c9e4b0d8abe8fd4a75e63c4&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20251017080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=106.13.250.89&SecurityKey=20251017080056&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96b202353ae34809331b2240f08639b5&ddCalcu=59b6e9b13266008203f5034a2e23b4183039
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20251018080052b667c7f672044f7db08039de68c704a0&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20251018080052&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=106.13.250.90&SecurityKey=20251018080052&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=af86a859438a2c03acb17438a8f9ad11&ddCalcu=1a1fed81a669a0f885a98433487a12bcc0a3
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南京教科.png" group-title="☘️江苏",南京教科
 https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=0427a8c0867765b66984ce8ef774d494eeb52a2d6a7eefe17c4b03fa30923700917323b8951caa30617f3eecc1db2844cdff2f7470556533fbc072ad7a7cb0c6284344cc57983294a2b26f4303
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南京教科.png" group-title="☘️江苏",南京教科
@@ -155,8 +157,6 @@ rtmp://zjtv-wshls.homecdn.com/live/2aa50
 http://1.94.31.214/php/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南都市.png" group-title="☘️河南",河南都市
 http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南民生.png" group-title="☘️河南",河南民生
-http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南民生.png" group-title="☘️河南",河南民生
 http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南梨园.png" group-title="☘️河南",河南梨园
@@ -187,8 +187,8 @@ https://jwcdnqx.hebyun.com.cn/zb/hdkj/1500k/tzwj_video.m3u8
 https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/邢台综合.png" group-title="☘️河北",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/滨海新闻.png" group-title="☘️天津",滨海新闻
-http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+#EXTINF:-1 tvg-name="津南一套" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/津南一套.png" group-title="☘️天津",津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东教育.png" group-title="☘️山东",山东教育
 http://z.b.bkpcp.top/m.php?id=sdjy
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东教育.png" group-title="☘️山东",山东教育
@@ -209,24 +209,26 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisd
 https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西体育休闲.png" group-title="☘️陕西",陕西体育休闲
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南电视剧.png" group-title="☘️湖南",湖南电视剧
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz01YzUzMTBiZWI4MTY0ZjE0NjFiNjNkYjlhM2ZmZTI1YSZ1aWQ9JnV1aWQ9YzdmYTMxMGY3Mjc4ZTE4MjU4YThjZDc4YWUwNTEyNmYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDc0ODU2MQ,,/HNDSJMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南爱晚.png" group-title="☘️湖南",湖南爱晚
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0yMzY1YjRhMDBiMjg3ODhmY2MxMjAxZGQ4MjQzNzBkMSZ1aWQ9JnV1aWQ9ZDI3Y2RmNzk0MjlmMjMxMWYyODhhOGFmNTU4YzM5NTItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDc5MzM3Mg,,/HNGGMPP360.m3u8
+#EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/十堰新闻.png" group-title="☘️湖北",十堰新闻
+https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&amp;tpid=868100086
+#EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/十堰新闻.png" group-title="☘️湖北",十堰新闻
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽影视.png" group-title="☘️安徽",安徽影视
 http://112.27.235.94:8000/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="安徽经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽经济.png" group-title="☘️安徽",安徽经济
 http://112.27.235.94:8000/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="安徽导视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽导视.png" group-title="☘️安徽",安徽导视
 https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
-#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽综艺体育.png" group-title="☘️安徽",安徽综艺体育
-http://112.27.235.94:8000/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄山新闻综合.png" group-title="☘️安徽",黄山新闻综合
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 #EXTINF:-1 tvg-name="黄山公共生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄山公共生活.png" group-title="☘️安徽",黄山公共生活
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-#EXTINF:-1 tvg-name="璧山综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/璧山综合.png" group-title="☘️重庆",璧山综合
-http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="垫江综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/垫江综合.png" group-title="☘️重庆",垫江综合
 rtmp://play-sh.quklive.com/live/1672366847646284
+#EXTINF:-1 tvg-name="垫江综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/垫江综合.png" group-title="☘️重庆",垫江综合
+http://play-sh.quklive.com/live/1672366847646284.m3u8
 #EXTINF:-1 tvg-name="广元公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广元公共.png" group-title="☘️四川",广元公共
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广元综合.png" group-title="☘️四川",广元综合
@@ -234,25 +236,25 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/长宁综合.png" group-title="☘️四川",长宁综合
 rtmp://cnpull.sccnfb.com/live/123456
 #EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/长宁综合.png" group-title="☘️四川",长宁综合
-http://cnpull.sccnfb.com/live/123456.m3u8?zsicd四川卫视
+https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/雅安新闻综合.png" group-title="☘️四川",雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/雅安新闻综合.png" group-title="☘️四川",雅安新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安顺新闻.png" group-title="☘️贵州",安顺新闻
 http://hplayer1.juyun.tv/camera/154379194.m3u8
-#EXTINF:-1 tvg-name="内蒙农牧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙农牧.png" group-title="☘️内蒙",内蒙农牧
-http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古经济生活.png" group-title="☘️内蒙",内蒙古经济生活
-http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江文体.png" group-title="☘️黑龙江",黑龙江文体
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江都市.png" group-title="☘️黑龙江",黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江新闻.png" group-title="☘️黑龙江",黑龙江新闻
+http://111.43.126.240:7777/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江新闻.png" group-title="☘️黑龙江",黑龙江新闻
 https://fenghuang.tv12.xyz/66.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/延边卫视.png" group-title="☘️吉林",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁影视剧.png" group-title="☘️辽宁",辽宁影视剧
+http://ygbh.site/php/bfgd.php?id=070
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁教育青少.png" group-title="☘️辽宁",辽宁教育青少
+http://ygbh.site/php/bfgd.php?id=075
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃经济.png" group-title="☘️甘肃",甘肃经济
 https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃都市.png" group-title="☘️甘肃",甘肃都市
@@ -274,11 +276,11 @@ https://hls-gateway.vpstv.net/streams/708836.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
-http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
-https://live.catvod.com/live.php?id=zhujiang&token=59c8a70591c23323d14a707acf978f30516bd9826e723fb5978fa26c86d3142d%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
 http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
+https://live.catvod.com/live.php?id=zhujiang&token=3e37b386858e4dc4cc684897757e9c961b1648d5cb0734fea3747a022cb06172%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
+http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
 https://smart.pendy.dpdns.org/Smart.php
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东体育.png" group-title="☘️广东",广东体育
@@ -302,13 +304,7 @@ http://dsk.cc/php/xxtv.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/大湾区卫视.png" group-title="☘️广东",大湾区卫视
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/大湾区卫视.png" group-title="☘️广东",大湾区卫视
-http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=202510170800553921e8d094ad46afadbc96bbbf0eb893&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251017080055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.89&SecurityKey=20251017080055&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=27e9a0e0f3ad0a9ea765a407e84fed98&ddCalcu=8297ede1e98fa0408ee07f034aad506a79ae
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州综合.png" group-title="☘️广东",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州综合.png" group-title="☘️广东",广州综合
-https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广州综合.png" group-title="☘️广东",广州综合
-https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2025101808005136d41a18770b474ab2ee714bd7b35fee&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251018080051&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.90&SecurityKey=20251018080051&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=13104797f94a857cffcb776ec7c20c2b&ddCalcu=b123ec11008240c779c7ef69747ab8c5f7fc
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西新闻.png" group-title="☘️广西",广西新闻
 https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西国际.png" group-title="☘️广西",广西国际
@@ -327,8 +323,8 @@ http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m
 rtmp://hls.nntv.cn/nnlive/YSYL_244
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南宁影视娱乐.png" group-title="☘️广西",南宁影视娱乐
 http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来体育.png" group-title="🏀体育",纬来体育
-rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 tvg-name="桂林公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/桂林公共.png" group-title="☘️广西",桂林公共
+https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来体育.png" group-title="🏀体育",纬来体育
 https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来体育.png" group-title="🏀体育",纬来体育
@@ -370,13 +366,15 @@ https://hls-gateway.vpstv.net/streams/708835.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云音乐.png" group-title="🎵音乐",风云音乐
 https://hls-gateway.vpstv.net/streams/708858.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
 http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
@@ -387,18 +385,16 @@ https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="🌊港澳",凤凰中文
-https://hls-gateway.vpstv.net/streams/476959.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
@@ -408,11 +404,13 @@ https://hls-gateway.vpstv.net/streams/476958.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
 http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="🌊港澳",凤凰资讯
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港澳",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港澳",凤凰香港
 http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港澳",凤凰香港
+https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港澳",凤凰香港
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港澳",凤凰香港
@@ -434,8 +432,6 @@ http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
 https://cdn5.1678520.xyz/live/live2.1.php?id=j1
@@ -443,8 +439,6 @@ https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 http://cdn5.1678520.xyz/live/?id=fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
-https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now剧集.png" group-title="🌊港澳",Now剧集
 http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVBS亚洲.png" group-title="🌊港澳",TVBS亚洲
@@ -457,6 +451,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 https://hls-gateway.vpstv.net/streams/709593.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/星空卫视.png" group-title="🌊港澳",星空卫视
 http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/星空卫视.png" group-title="🌊港澳",星空卫视
+http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/星空卫视.png" group-title="🌊港澳",星空卫视
 http://wouu.net:9977/rtp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映频道.png" group-title="🌊港澳",天映频道
@@ -472,13 +468,15 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌊港澳",天映经典
 https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌊港澳",天映经典
-https://live.catvod.com/live.php?id=Celestial2&token=f2121eafb4519907906cdd16a1c85fbeee1e9135ad177f058fb812ee7c2080e0%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌊港澳",天映经典
-https://cdn9.163189.xyz/smt1.1.php
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌊港澳",天映经典
+https://live.catvod.com/live.php?id=Celestial2&token=c9abe5ddb0fe36be12a68845831aedc7c723e74f0a6661254527462f7d38ed04%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌊港澳",天映经典
 http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 tvg-name="天映电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映电影.png" group-title="🌊港澳",天映电影
-https://cdn9.163189.xyz/smt1.1.php?id=Celestial
+https://cdn9.163189.xyz/smt1.1.php
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/千禧经典.png" group-title="🌊港澳",千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HOY78.png" group-title="🌊港澳",HOY78
@@ -494,7 +492,7 @@ https://hls-gateway.vpstv.net/streams/708913.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
-https://live.catvod.com/live.php?id=cna&token=c87c34de3a7308979ac3d42fada032375c12ded97dc4f00006214d3844bdc422%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=cna&token=63ead4a422390765ff8db4718dd3b862471d91d952e49caac14dc00940b09379%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
 https://hls-gateway.vpstv.net/streams/709497.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
@@ -505,10 +503,6 @@ http://free.cnlive.club/channel/n43b97ee1.m3u8
 https://hls-gateway.vpstv.net/streams/709009.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
-http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
-http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
@@ -524,21 +518,15 @@ https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森新闻.png" group-title="🌐台讯",东森新闻
 https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://hls-gateway.vpstv.net/streams/476270.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://tv.iill.top/litv/litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视新闻.png" group-title="🌐台讯",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视新闻.png" group-title="🌐台讯",台视新闻
 https://hls-gateway.vpstv.net/streams/476268.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视新闻.png" group-title="🌐台讯",台视新闻
 https://tv.iill.top/litv/4gtv-4gtv051
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/民视新闻.png" group-title="🌐台讯",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/民视新闻.png" group-title="🌐台讯",民视新闻
 https://hls-gateway.vpstv.net/streams/479210.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/民视新闻.png" group-title="🌐台讯",民视新闻
@@ -549,8 +537,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://hls-gateway.vpstv.net/streams/476266.m3u8
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视新闻.png" group-title="🌐台讯",华视新闻
 https://tv.iill.top/litv/4gtv-4gtv052
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三立新闻.png" group-title="🌐台讯",三立新闻
-http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三立新闻.png" group-title="🌐台讯",三立新闻
 https://hls-gateway.vpstv.net/streams/492922.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三立新闻.png" group-title="🌐台讯",三立新闻
@@ -566,11 +552,9 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天资讯.png" group-title="🌐台讯",靖天资讯
 https://tv.iill.top/litv/4gtv-4gtv065
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视.png" group-title="🌐台综",台视
-rtmp://f13h.mine.nu:1935/sat/tv071
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视.png" group-title="🌐台综",台视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视.png" group-title="🌐台综",台视
-https://live.catvod.com/live.php?id=ttv_taiwan&token=98c7adc944a02b9f4947bb997e9f3cceb7236df12f782f92b63b641639cf509c%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=ttv_taiwan&token=095ffc2a4b1f6cef936afe47bbdfa1f9aa71a746c5d65fb1ce2327a759abc492%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视.png" group-title="🌐台综",台视
 https://hls-gateway.vpstv.net/streams/476982.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/台视.png" group-title="🌐台综",台视
@@ -580,17 +564,15 @@ rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
-https://live.catvod.com/live.php?id=zhongshihd_twn&token=dc41ee737b7d76b8992eba72d5a28117acb09d61b90b0933d338d7650906063e%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=zhongshihd_twn&token=62b6f460a7886a9198b3c019940ffc956da151693785ae2723a712ad67a51d68%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
 https://hls-gateway.vpstv.net/streams/476983.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
 https://tv.iill.top/litv/4gtv-4gtv040
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
-rtmp://f13h.mine.nu:1935/sat/tv111
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
-https://live.catvod.com/live.php?id=ctshd_twn&token=06b6ef5aa001b4450eb1bdd073351ac6f9dd88ffeb55f55513022435c342c435%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=ctshd_twn&token=ce695c09697ce13506d15eea0d29f681d3ee661a950a0854023b0bb9d377349c%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
 https://hls-gateway.vpstv.net/streams/476985.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
@@ -601,8 +583,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 https://hls-gateway.vpstv.net/streams/477050.m3u8
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三立综合.png" group-title="🌐台综",三立综合
 https://tv.iill.top/4gtv/4gtv-live207
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森超视.png" group-title="🌐台综",东森超视
-rtmp://f13h.mine.nu:1935:1935/sat/tv331
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森超视.png" group-title="🌐台综",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森超视.png" group-title="🌐台综",东森超视
@@ -630,7 +610,7 @@ https://hls-gateway.vpstv.net/streams/476971.m3u8
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天国际.png" group-title="🌐台综",靖天国际
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天国际.png" group-title="🌐台综",靖天国际
-https://live.catvod.com/live.php?id=jingtianintl_twn&token=24c520d9842f8ea76b45f2653750a37dd058b6d05d7a8b4edc3eda48391d6897%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=jingtianintl_twn&token=d96282b0f005f5532650d853a4606d8b8ab2b4720a3acd8c3a18b9156dd14a66%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天国际.png" group-title="🌐台综",靖天国际
 https://hls-gateway.vpstv.net/streams/476254.m3u8
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天国际.png" group-title="🌐台综",靖天国际
@@ -656,13 +636,11 @@ http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5sJgqO7DB1aS
 #EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ELTA影剧.png" group-title="🌐台剧",ELTA影剧
 https://hls-gateway.vpstv.net/streams/476282.m3u8
 #EXTINF:-1 tvg-name="爱尔达影剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/爱尔达影剧.png" group-title="🌐台剧",爱尔达影剧
-https://live.catvod.com/live.php?id=eltayingju_twn&token=a2fc40547187af2d06c0c767586936b10ba9239677861c880db24a16e67303bc%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=eltayingju_twn&token=847f99b6e2acffcbcc25a77ee62b68818d2713980057fefeb5369edc551fdbdc%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="愛爾達影劇" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/愛爾達影劇.png" group-title="🌐台剧",愛爾達影劇
-https://live.catvod.com/live.php?id=eltayingju_twn&token=a2fc40547187af2d06c0c767586936b10ba9239677861c880db24a16e67303bc%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=eltayingju_twn&token=847f99b6e2acffcbcc25a77ee62b68818d2713980057fefeb5369edc551fdbdc%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来戏剧.png" group-title="🌐台剧",纬来戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-#EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来戏剧.png" group-title="🌐台剧",纬来戏剧
-https://live.catvod.com/live.php?id=videolandtv&token=843c15c9124aaf75cc76ed987a94329c817819c345fd107e2333f3a1f9962585%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=videolandtv&token=d8295798b2dab5b49928940603a56b047c43248b10fd916e911ddf4eea205653%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来戏剧.png" group-title="🌐台剧",纬来戏剧
 https://hls-gateway.vpstv.net/streams/477067.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天戏剧.png" group-title="🌐台剧",靖天戏剧
@@ -680,8 +658,6 @@ https://hls-gateway.vpstv.net/streams/476285.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖洋戏剧.png" group-title="🌐台剧",靖洋戏剧
 https://tv.iill.top/litv/4gtv-4gtv045
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华戏剧.png" group-title="🌐台剧",龙华戏剧
-http://smart.cityq.xyz:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华戏剧.png" group-title="🌐台剧",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华戏剧.png" group-title="🌐台剧",龙华戏剧
 https://hls-gateway.vpstv.net/streams/476293.m3u8
@@ -694,7 +670,7 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华偶像.png" group-title="🌐台剧",龙华偶像
 https://cdn3.132.us.kg/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华偶像.png" group-title="🌐台剧",龙华偶像
-https://live.catvod.com/live.php?id=lunghuaidol_twn&token=58f3d8d80c0b58c372abcd6f953f2ef2b627e31ecf55fbb4c5ad8e9c7e3a03d8%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=lunghuaidol_twn&token=72e08dde951164cdafe75f9a67a17897c1f176aee598d241f94861ee13641994%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华偶像.png" group-title="🌐台剧",龙华偶像
 https://hls-gateway.vpstv.net/streams/708930.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华偶像.png" group-title="🌐台剧",龙华偶像
@@ -710,11 +686,11 @@ https://hls-gateway.vpstv.net/streams/476231.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华日韩.png" group-title="🌐台剧",龙华日韩
 https://tv.iill.top/litv/litv-longturn11
 #EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/EYETV戏剧.png" group-title="🌐台剧",EYETV戏剧
-https://live.catvod.com/live.php?id=eyetvxiju_twn&token=d983cf284aefed288fc8d68a1277f2ab890a1f040cd5a41ab0fc74e4768c767d%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=eyetvxiju_twn&token=045d3d982a399c490ef5111e78fc912d605854a828800e92b61d33e58dc6fe93%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/EYETV戏剧.png" group-title="🌐台剧",EYETV戏剧
 https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-name="EYE TV 戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/EYE TV 戏剧.png" group-title="🌐台剧",EYE TV 戏剧
-https://live.catvod.com/live.php?id=eyetvxiju_twn&token=d983cf284aefed288fc8d68a1277f2ab890a1f040cd5a41ab0fc74e4768c767d%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=eyetvxiju_twn&token=045d3d982a399c490ef5111e78fc912d605854a828800e92b61d33e58dc6fe93%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="EYE TV 戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/EYE TV 戏剧.png" group-title="🌐台剧",EYE TV 戏剧
 https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/八大戏剧.png" group-title="🌐台剧",八大戏剧
@@ -730,9 +706,11 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
 https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
-https://live.catvod.com/live.php?id=Celestial2&token=f2121eafb4519907906cdd16a1c85fbeee1e9135ad177f058fb812ee7c2080e0%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
-https://cdn9.163189.xyz/smt1.1.php
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
+https://live.catvod.com/live.php?id=Celestial2&token=c9abe5ddb0fe36be12a68845831aedc7c723e74f0a6661254527462f7d38ed04%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
 http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/民视影剧.png" group-title="🌐台剧",民视影剧
@@ -752,9 +730,9 @@ https://hls-gateway.vpstv.net/streams/476997.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬台影",东森洋片
 http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬台影",东森洋片
-https://live.catvod.com/live.php?id=ettvwestern&token=5ea0168b81b9065e85324ffbac62b3dfb168e99ab2542ae0c34e6f1e150090c7%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬台影",东森洋片
 http://live.catvod.com/smart.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东森洋片.png" group-title="🎬台影",东森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=05984365906a208228a6d39e81e49bf444a186ab26c3c9a0b1e6c7ee4fb35990%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
 https://hls-gateway.vpstv.net/streams/477063.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
@@ -762,11 +740,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
 http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
-https://live.catvod.com/live.php?id=videolandmovie&token=b22ede3e056d587edd13e835bcb0011c0cfccb6c8683aa8e8af9cd6e228563e2%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
 http://live.catvod.com/smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
+https://live.catvod.com/live.php?id=videolandmovie&token=39815a8fddde536bc56e7e23e0e2ce749cd2c13b7b1cb8a08abe873973b03f43%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华电影.png" group-title="🎬台影",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华电影.png" group-title="🎬台影",龙华电影
@@ -778,7 +756,7 @@ https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华洋片.png" group-title="🎬台影",龙华洋片
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华洋片.png" group-title="🎬台影",龙华洋片
-https://live.catvod.com/live.php?id=lunghuawestern_twn&token=4c7dfffd2a858d9e48693e1eedfbeda3beab97a9987520d287144e9390498a97%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=lunghuawestern_twn&token=1948426fb38ba1b9d8f2937dd6844058e34c7e6118e464637f311e1d533f23b4%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华洋片.png" group-title="🎬台影",龙华洋片
 https://hls-gateway.vpstv.net/streams/477076.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/龙华洋片.png" group-title="🎬台影",龙华洋片
@@ -796,6 +774,8 @@ http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJ
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
 https://tv.iill.top/litv/4gtv-4gtv055
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
+http://tl.061833.xyz/tl/null-5
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
 https://hls-gateway.vpstv.net/streams/476212.m3u8
 #EXTINF:-1 tvg-name="壹电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/壹电影.png" group-title="🎬台影",壹电影
 https://hls-gateway.vpstv.net/streams/476280.m3u8
@@ -806,11 +786,11 @@ https://hls-gateway.vpstv.net/streams/708907.m3u8
 #EXTINF:-1 tvg-name="影迷数位电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/影迷数位电影.png" group-title="🎬台影",影迷数位电影
 https://tv.iill.top/litv/4gtv-4gtv011
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO.png" group-title="🎬台影",HBO
-https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=e45259d7e45259d7e45259d7e45259d7
+https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=c2e7259ac2e7259ac2e7259ac2e7259a
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO.png" group-title="🎬台影",HBO
 http://pullpackage.alivecdn.com/live/GfPVn0eDChnsJgqOmsvZeKXYTNMgH8clNLUesg4VlSCLjkEICb.flv
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO.png" group-title="🎬台影",HBO
-https://live.catvod.com/live.php?id=hbohd_twn&token=1d16c015f64dfd7efc4ff264ffa49796125717acac271ca10fdfeb5af46d6337%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=hbohd_twn&token=9e17416fd41aae19dcef91c29506dd7c3e03f78f52d2a60791e9e1709a511cca%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO.png" group-title="🎬台影",HBO
 https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO.png" group-title="🎬台影",HBO
@@ -826,13 +806,13 @@ https://hls-gateway.vpstv.net/streams/709552.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/HBO Signature.png" group-title="🎬台影",HBO Signature
 https://hls-gateway.vpstv.net/streams/476634.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/AXN.png" group-title="🎬台影",AXN
-https://live.catvod.com/live.php?id=Axn&token=078f962ca5d2634e665be895ae742ca8e6d83760a98c803b24e814da301a58d1%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=Axn&token=cb29a8d2ffb2c43066a7e665e0d33e453ae68bfe66dd97f0e10f431f6eaaa190%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/AXN.png" group-title="🎬台影",AXN
 https://hls-gateway.vpstv.net/streams/709502.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FX.png" group-title="🎬台影",FX
 https://hls-gateway.vpstv.net/streams/709298.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CINEMAX.png" group-title="🎬台影",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn&token=35311850b7bd82cdeabb664664560dd27fc81224bc1b3968cfe725352a0d7172%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=cinemax_twn&token=a7527c04526abb588d7fc51b6f44dc1ad83955562d3955f93910adf3a57cce3c%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CINEMAX.png" group-title="🎬台影",CINEMAX
 https://hls-gateway.vpstv.net/streams/476283.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CINEMAX.png" group-title="🎬台影",CINEMAX
@@ -840,7 +820,7 @@ http://free.cnlive.club/channel/2420c041.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="🌎英语",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="🌎英语",CNN
-https://live.catvod.com/live.php?id=cnn_twn&token=68cc3f312565afc8dae6ee52fbfa6cf8e82d40e37eda33ca0059e27ff0ed5597%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=cnn_twn&token=838b697bb29a5afd65facd92441d7cfa5323915fc27efaff26a984342aff0d63%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="🌎英语",CNN
 https://hls-gateway.vpstv.net/streams/709560.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="🌎英语",CNN
@@ -856,7 +836,7 @@ https://hls-gateway.vpstv.net/streams/476638.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌎英语",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌎英语",CNA
-https://live.catvod.com/live.php?id=cna&token=c87c34de3a7308979ac3d42fada032375c12ded97dc4f00006214d3844bdc422%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=cna&token=63ead4a422390765ff8db4718dd3b862471d91d952e49caac14dc00940b09379%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌎英语",CNA
 https://hls-gateway.vpstv.net/streams/709497.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="🌎英语",CNA
@@ -866,23 +846,19 @@ http://free.cnlive.club/channel/n43b97ee1.m3u8
 #EXTINF:-1 tvg-name="美国之音" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美国之音.png" group-title="🌎英语",美国之音
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/BBC World News.png" group-title="🌎英语",BBC World News
-https://live.catvod.com/live.php?id=bbcworldnews_antik&token=124afcec1b68b15147f7c75bee6588b05ab76e526b5c50ebad474ea5885e0ef7%3A1760663707%3ANTIuMTU5LjI0Ny4xOTI%3D
+https://live.catvod.com/live.php?id=bbcworldnews_antik&token=7df02bc8929b3d9bfbc516fa33946b6c491a4ba7db43a56361673c518fc0e415%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/BBC World News.png" group-title="🌎英语",BBC World News
 http://free.cnlive.club/channel/n66a1746b.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
-http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
 http://gat.bkpcp.top/ymg.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
-http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
 https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
+http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬影剧",CHC家庭影院
 http://eastscreen.tv/ooooo.php
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬影剧",CHC动作电影
-http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬影剧",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬影剧",CHC动作电影
@@ -893,8 +869,16 @@ https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944
 http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV动作电影.png" group-title="🎬影剧",NewTV动作电影
 http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV古装剧场.png" group-title="🎬影剧",NewTV古装剧场
+http://111.43.126.240:7777/hls/81/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV古装剧场.png" group-title="🎬影剧",NewTV古装剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV家庭剧场.png" group-title="🎬影剧",NewTV家庭剧场
 http://ygbh.site/php/bfgd.php?id=290
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV家庭剧场.png" group-title="🎬影剧",NewTV家庭剧场
+http://111.43.126.240:7777/hls/83/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV精品大剧.png" group-title="🎬影剧",NewTV精品大剧
+http://111.43.126.240:7777/hls/80/index.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经典电影.png" group-title="🎬影剧",经典电影
 https://tv.iill.top/4gtv/201
 #EXTINF:-1 tvg-name="松视2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/松视2.png" group-title="🔞🍁🌺🌎",松视2
