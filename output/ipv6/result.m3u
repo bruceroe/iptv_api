@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2025-11-24 16:04:57
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2025-11-25 04:02:13
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/河北4K.png" group-title="🍀超清",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -311,6 +311,8 @@ https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65ju
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/安多卫视.png" group-title="☘️青海",安多卫视
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/安多卫视.png" group-title="☘️青海",安多卫视
+http://www.dsk.cc/php/xxtv.php?id=adws
 #EXTINF:-1 tvg-name="福建海峡" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/福建海峡.png" group-title="☘️福建",福建海峡
 https://hls-gateway.vpstv.net/streams/708836.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/广东珠江.png" group-title="☘️广东",广东珠江
@@ -496,7 +498,7 @@ http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+http://hls.168.us.kg/u/81/master.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
@@ -505,6 +507,8 @@ http://r.jdshipin.com/ZQ4kN
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Now剧集.png" group-title="🌊港澳",Now剧集
 http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
+#EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Now剧集.png" group-title="🌊港澳",Now剧集
+http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS亚洲.png" group-title="🌊港澳",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVB1.png" group-title="🌊港澳",TVB1
@@ -531,8 +535,12 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/千禧经典.png" group-title="🌊港澳",千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HOY77.png" group-title="🌊港澳",HOY77
+http://hls.168.us.kg/u/77/master.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HOY78.png" group-title="🌊港澳",HOY78
 http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HOY78.png" group-title="🌊港澳",HOY78
+http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/莲花卫视.png" group-title="🌊港澳",莲花卫视
 http://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/莲花卫视.png" group-title="🌊港澳",莲花卫视
@@ -559,6 +567,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Astro AEC.png" group-title="🌿新马",Astro AEC
 https://hls-gateway.vpstv.net/streams/709009.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
@@ -967,6 +977,8 @@ https://hls-gateway.vpstv.net/streams/709583.m3u8
 https://hls-gateway.vpstv.net/streams/602196.m3u8
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HBO Family.png" group-title="🎬台影",HBO Family
 https://hls-gateway.vpstv.net/streams/477727.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HBO Family.png" group-title="🎬台影",HBO Family
+https://tzh911.qzz.io/play-smt.php?id=Hbofamily
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HBO Hits.png" group-title="🎬台影",HBO Hits
 https://hls-gateway.vpstv.net/streams/709552.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HBO Hits.png" group-title="🎬台影",HBO Hits
@@ -1033,6 +1045,14 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌎外语",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌎外语",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/BBC World News.png" group-title="🌎外语",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/BBC World News.png" group-title="🌎外语",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=Bbcnews
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/BBC World News.png" group-title="🌎外语",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik
 #EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/MovieSphere.png" group-title="🌎外语",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CINEMAX.png" group-title="🌎外语",CINEMAX
