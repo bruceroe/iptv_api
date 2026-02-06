@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-02-06 16:21:16
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-02-07 04:14:48
 https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/浙江卫视4K.png" group-title="🍀超清",浙江卫视4K
 https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -783,10 +783,6 @@ https://hls-gateway.vpstv.net/streams/708922.m3u8
 https://tv.iill.top/4gtv/4gtv-4gtv070?token=f5fdb80cfc331295144dd1bc10ea2639e1ead1432071f78330850dcbdcb86d93
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天娱乐.png" group-title="🌐台娱",中天娱乐
 https://hls-gateway.vpstv.net/streams/476996.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天娱乐.png" group-title="🌐台娱",中天娱乐
-https://t.freetv.fun/live/zhong-tian-yu-le.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天娱乐.png" group-title="🌐台娱",中天娱乐
-https://t.freetv.fun/live/zhong-tian-yu-le-1.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/MTV LIVE.png" group-title="🌐台娱",MTV LIVE
 https://hls-gateway.vpstv.net/streams/709109.m3u8
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森戏剧.png" group-title="🌐台剧",东森戏剧
