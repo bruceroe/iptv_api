@@ -9,6 +9,7 @@ BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
@@ -53,6 +54,7 @@ QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+Red Bull TV SD (720p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Shaanxi Agroforestry Satellite TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
 Shandong Education TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
 Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
@@ -62,11 +64,11 @@ Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 SMG Football Channel,http://49.113.179.174:4022/udp/238.125.2.142:5140
 STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
-Tonghua TV,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-Tonghua TV,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+Tonghua TV (1080p),https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 Toonmax TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
 Ugo Shop TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
-VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 World Economy Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xinjiang TV 2,http://49.113.179.174:4022/udp/238.125.3.175:5140
@@ -420,7 +422,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 篮球资讯 (576p),http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8
 娄底综合 (720p),http://119.39.242.52:1935/live/zonghe/playlist.m3u8
 精品电影 (1080p),http://183.207.248.71/cntv/live1/jdianying/jdianying
-Red Bull TV SD (720p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 纪实人文 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 纯享4K (2160p),http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 继续教育 (576p),http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
@@ -484,3 +485,33 @@ Red Bull TV SD (720p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/ma
 长沙政法 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 长沙新闻 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 长沙经贸 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
+长沙购物 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+陕西卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+陕西卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8
+陕西卫视 (540p),http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8
+隨州綜合 (720p) [Not 24/7],http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
+隨州農村 (720p) [Not 24/7],http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
+集安综合 [Geo-blocked],https://stream2.jlntv.cn/ja/sd/live.m3u8
+霸州公共頻道 (576p) [Not 24/7],http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
+霸州少兒頻道 (576p) [Not 24/7],http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
+青海卫视 (1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
+青海卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+青海卫视 (540p),http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8
+靖江新闻綜合 (480p) [Not 24/7],http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+静宁综合 (1080p),http://117.156.28.119/270000001111/1110000147/index.m3u8
+风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+餘姚姚江文化 (576p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+高清电影 (1080p),http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+鹤峰综合 [Geo-blocked],http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
+鹿泉一套 (576p) [Not 24/7],http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
+鹿泉二套 (576p) [Not 24/7],http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
+黑龙卫视 (1080p),http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+黑龙卫视 (1080p),http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8
+黑龙卫视 (1080p),http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8
+黑龙卫视 (720p),http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
+黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+黑龙江 (576p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
+黑龙江卫 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+黑龙江卫视 (2160p),http://118.81.195.79:9003/hls/31/index.m3u8
