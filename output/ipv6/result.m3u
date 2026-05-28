@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-05-28 19:18:38
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-05-29 05:43:21
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/浙江卫视4K.png" group-title="🍀超清",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -462,17 +462,11 @@ http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
-https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
-https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS新闻.png" group-title="🌐台讯",TVBS新闻
 https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS新闻.png" group-title="🌐台讯",TVBS新闻
 https://t.freetv.fun/live/tvbsxin-wen.php
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS新闻.png" group-title="🌐台讯",TVBS新闻
-https://t.freetv.fun/live/tvbsxin-wen-2.php
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS亚洲.png" group-title="🌐台讯",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS亚洲.png" group-title="🌐台讯",TVBS亚洲
@@ -509,8 +503,6 @@ http://clawcloud.goiptv.de5.net/litv.php?id=litv-longturn14&token=xiatianshigou
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://t.freetv.fun/live/huan-yu-xin-wen.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
-https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://t.freetv.fun/live/huan-yu-xin-wen-2.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
