@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-09-16 06:37:39
-https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-09-16 21:03:55
+https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏卫视4K.png" group-title="🍀超清",江苏卫视4K
+https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/河北4K.png" group-title="🍀超清",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/上海都市.png" group-title="☘️上海",上海都市
@@ -31,32 +33,44 @@ https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 https://hls-gateway.vpstv.net/streams/708845.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
 http://fn.gcl.de5.net:5908/gsh950428/626065193
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
+http://www.ikerobot.com:1234/626065193
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
+https://live.chinacert.cftest5.cn/cnmg/live/626065193
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
 http://fn.gcl.de5.net:5908/gsh950428/626064697
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
+http://www.ikerobot.com:1234/626064697
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
+https://live.chinacert.cftest5.cn/cnmg/live/626064697
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏体育.png" group-title="☘️江苏",江苏体育
 https://live.chinacert.cftest5.cn/cnmg/live/626064707
 #EXTINF:-1 tvg-name="江苏公共" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏公共.png" group-title="☘️江苏",江苏公共
 https://live.chinacert.cftest5.cn/cnmg/live/626064693
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
 http://fn.gcl.de5.net:5908/gsh950428/626064714
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
+http://www.ikerobot.com:1234/626064714
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
+https://live.chinacert.cftest5.cn/cnmg/live/626064714
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
 http://z.b.bkpcp.top/m.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
 http://fn.gcl.de5.net:5908/gsh950428/628008321
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
+http://www.ikerobot.com:1234/628008321
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
+https://live.chinacert.cftest5.cn/cnmg/live/628008321
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
 http://fn.gcl.de5.net:5908/gsh950428/626064674
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
+http://www.ikerobot.com:1234/626064674
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
+https://live.chinacert.cftest5.cn/cnmg/live/626064674
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/南京少儿.png" group-title="☘️江苏",南京少儿
+http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/南京教科.png" group-title="☘️江苏",南京教科
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡娱乐.png" group-title="☘️江苏",无锡娱乐
-https://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡娱乐.png" group-title="☘️江苏",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡娱乐.png" group-title="☘️江苏",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡娱乐.png" group-title="☘️江苏",无锡娱乐
-http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡娱乐.png" group-title="☘️江苏",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡经济.png" group-title="☘️江苏",无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡经济.png" group-title="☘️江苏",无锡经济
@@ -67,18 +81,10 @@ http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡经济.png" group-title="☘️江苏",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡生活.png" group-title="☘️江苏",无锡生活
-https://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡生活.png" group-title="☘️江苏",无锡生活
-http://stream.thmz.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡生活.png" group-title="☘️江苏",无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/无锡生活.png" group-title="☘️江苏",无锡生活
-http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-name="淮阴综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/淮阴综合.png" group-title="☘️江苏",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/河南电视剧.png" group-title="☘️河南",河南电视剧
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=4fad8a270e14424f4b99f9e7506de38f&wsTime=1789441459
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=75c07e9e3a5ebfb5797e7d714e89ac06&wsTime=1789527857
 #EXTINF:-1 tvg-name="洛阳综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/洛阳综合.png" group-title="☘️河南",洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳科教" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/洛阳科教.png" group-title="☘️河南",洛阳科教
@@ -129,6 +135,10 @@ http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 tvg-name="广安公共" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/广安公共.png" group-title="☘️四川",广安公共
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/黑龙江文体.png" group-title="☘️黑龙江",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/黑龙江都市.png" group-title="☘️黑龙江",黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/黑龙江新闻.png" group-title="☘️黑龙江",黑龙江新闻
 https://fenghuang.tv12.xyz/66.m3u8
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/甘肃经济.png" group-title="☘️甘肃",甘肃经济
@@ -188,7 +198,7 @@ https://smt.1678520.xyz/163189/wlty
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/纬来体育.png" group-title="🏀体育",纬来体育
 https://ktpremium.world/live/LT1976F/A9177/877044.ts
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/纬来体育.png" group-title="🏀体育",纬来体育
-http://tv123.cc.cd/live.php?ch=1561&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=46a8d9846f1cd3bc29240a440d5c3ab7eb5b445d846401e777f3484c3cf4fb3d
+http://tv123.cc.cd/live.php?ch=1458&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=e626e3cc14d4c1427aca78d80871dfafec9cf94d8cfda8b2739563ac1ecbc2d0
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/五星体育.png" group-title="🏀体育",五星体育
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/五星体育.png" group-title="🏀体育",五星体育
@@ -256,6 +266,8 @@ http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/娱乐新闻.png" group-title="🌊港澳",娱乐新闻
 https://cdn6.163189.xyz/163189/ylxw
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/娱乐新闻.png" group-title="🌊港澳",娱乐新闻
+https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/娱乐新闻.png" group-title="🌊港澳",娱乐新闻
 https://hls-gateway.vpstv.net/streams/708904.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/翡翠台.png" group-title="🌊港澳",翡翠台
 http://r.jdshipin.com/qClQf
@@ -293,8 +305,10 @@ http://o11.163189.xyz/stream/tvb/mzt/
 https://cdn10.163189.xyz/163189/mzt/
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
 http://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/明珠台.png" group-title="🌊港澳",明珠台
+https://cdn6.cc.cd/163189/mzt
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS亚洲.png" group-title="🌊港澳",TVBS亚洲
-http://tv123.cc.cd/live.php?ch=1549&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=bc8422ee4b056198e09a13fcc61cdf0e5eae902a6ff9a17bbb39b8d925facdbe
+http://tv123.cc.cd/live.php?ch=1446&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=d90d446b356ee8f169e12621873208a8e3d710d595f69b857318e125632b22ac
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVB1.png" group-title="🌊港澳",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVB1.png" group-title="🌊港澳",TVB1
@@ -316,11 +330,13 @@ https://hls-gateway.vpstv.net/streams/709488.m3u8
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/千禧经典.png" group-title="🌊港澳",千禧经典
 http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/PopC.png" group-title="🌊港澳",PopC
-http://tv123.cc.cd/live.php?ch=1837&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=1ee57fcfb9e22e5c11d5574a5b83ae6a8e92cf5cf5df4e8133292d3bb9274be0
+https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/PopC.png" group-title="🌊港澳",PopC
-http://tv123.cc.cd/live.php?ch=493&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=3d997f13eb36601aec70ef3edea9da3b1fc228b6a2106f22089124e04bdb7079
+http://tv123.cc.cd/live.php?ch=1735&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=7cc086afedbe1d5e860b053ba3bfcc3f623b0310c384ddb51fc13c5e5f9612bf
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/PopC.png" group-title="🌊港澳",PopC
-http://tv123.cc.cd/live.php?ch=1243&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=29f7432390e235c12a83aa9890a78bf364e9fa9bef97b7dcb443f9c98b62069d
+http://tv123.cc.cd/live.php?ch=511&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=1d4ca5d8d69de1e73c621cb607f176331191f65e86569922bbc5ddfe3706d630
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/PopC.png" group-title="🌊港澳",PopC
+http://tv123.cc.cd/live.php?ch=1261&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=4b71a0c560cd8113ea482e9427afdda079490c05a32cbec4665558eab72d178d
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HOY77.png" group-title="🌊港澳",HOY77
 https://cdn6.cc.cd/163189/hoy
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/HOY77.png" group-title="🌊港澳",HOY77
@@ -378,13 +394,21 @@ https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8
+https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784706116084
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
+https://ktpremium.world/live/LT1976F/A9177/870539.ts
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中天新闻.png" group-title="🌐台讯",中天新闻
 https://4g.158.qzz.io/163189/ztxwt
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS新闻.png" group-title="🌐台讯",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS新闻.png" group-title="🌐台讯",TVBS新闻
+http://lax.dbm.cc.cd:8880/stream/e4725905-ef0b-4760-8978-924316e1729b/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/TVBS亚洲.png" group-title="🌐台讯",TVBS亚洲
-http://tv123.cc.cd/live.php?ch=1549&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=bc8422ee4b056198e09a13fcc61cdf0e5eae902a6ff9a17bbb39b8d925facdbe
+http://tv123.cc.cd/live.php?ch=1446&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=d90d446b356ee8f169e12621873208a8e3d710d595f69b857318e125632b22ac
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森新闻.png" group-title="🌐台讯",东森新闻
 https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
@@ -394,7 +418,9 @@ http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
-http://tv123.cc.cd/live.php?ch=1731&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=9cd94b5166fdcd5a5d005641bc554c8981053a3b2d5087d5e83613b22e021778
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784706116084
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
+http://tv123.cc.cd/live.php?ch=1629&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=c01e632a2fe9637c5eb3c65faeea0347da71a33322b0b5e5bbc1a1e99688a48b
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/寰宇新闻.png" group-title="🌐台讯",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/台视新闻.png" group-title="🌐台讯",台视新闻
@@ -432,11 +458,11 @@ https://hls-gateway.vpstv.net/streams/476983.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
 http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
-http://tv123.cc.cd/live.php?ch=1302&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=5d2aadce55a714d19ed6c63b74c7fe5b8db972994b9c7c6ad43a85ead3801a38
+http://lax.dbm.cc.cd:8880/stream/0beae5a1-fa80-4b45-8b4c-dc6043ebcd7f/playlist.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
-http://tv123.cc.cd/live.php?ch=1701&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=6f7ad09b9ceaa7bcf5429d87c2e2f1a681e0ef56c681941d8a9a75a5186b39de
+http://tv123.cc.cd/live.php?ch=1599&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=bfeb998b5922fd1485fc5bd43385df32b5a49233402fae9977602bcd576a872d
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/中视.png" group-title="🌐台综",中视
-http://4gtv.cnlive.club/channel/n722644d8/index.m3u8
+https://4g.158.qzz.io/163189/zs
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
 https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
@@ -446,9 +472,7 @@ https://hls-gateway.vpstv.net/streams/476985.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
 http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
-http://tv123.cc.cd/live.php?ch=1328&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=1aaeb4593b120dbc024a30a40bb1a0cfad135ef101bc314a85607c61c28b087a
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
-http://tv123.cc.cd/live.php?ch=1702&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=2921e8cd0c12e26e57b780c69ac6ffa0e4b71a975e9a2ef6003fb82d23010266
+http://tv123.cc.cd/live.php?ch=1600&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=719444249bf2de876d4e14b877978c3d2432f9da91056982bb71b17dcb04f998
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/华视.png" group-title="🌐台综",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/三立台湾.png" group-title="🌐台综",三立台湾
@@ -458,7 +482,7 @@ https://ktpremium.world/live/LT1976F/A9177/1003298.ts
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森超视.png" group-title="🌐台综",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森超视.png" group-title="🌐台综",东森超视
-http://tv123.cc.cd/live.php?ch=1559&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=005a990381c27a607caa3a9d93dda2a348e5f66f0dc317c1051ef3fd082da317
+http://tv123.cc.cd/live.php?ch=1456&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=fad2ab53cb88fb65edff32d9994fabf9f7da353670b2315ea136b831eb3b8345
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森综合.png" group-title="🌐台综",东森综合
 https://hls-gateway.vpstv.net/streams/476987.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森综合.png" group-title="🌐台综",东森综合
@@ -506,6 +530,8 @@ https://cdn12.178.indevs.in/163189/jtxj
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天戏剧.png" group-title="🌐台剧",靖天戏剧
 http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天戏剧.png" group-title="🌐台剧",靖天戏剧
+https://ktpremium.world/live/LT1976F/A9177/918600.ts
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天戏剧.png" group-title="🌐台剧",靖天戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖洋戏剧.png" group-title="🌐台剧",靖洋戏剧
 https://cdn12.178.indevs.in/163189/25084ef5a2662aad
@@ -540,9 +566,11 @@ https://cdn.qd.je/163189/lhrh
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/龙华日韩.png" group-title="🌐台剧",龙华日韩
 https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/龙华日韩.png" group-title="🌐台剧",龙华日韩
-http://tv123.cc.cd/live.php?ch=435&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=f521549acaec3f8d6f11ec1aedceadd34bf20631bbc6ae3e652939f8ef5b5bd7
+https://ktpremium.world/live/LT1976F/A9177/948087.ts
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/龙华日韩.png" group-title="🌐台剧",龙华日韩
-http://tv123.cc.cd/live.php?ch=1687&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=d4f197b319d2633f4b82698a6b3a120d0fd125d391140a0ea8cda15939ba47ef
+http://tv123.cc.cd/live.php?ch=453&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=a5f403973b547f4edc204fa9f1f5d1baed221f88d9069cd255983ee6fff81c94
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/龙华日韩.png" group-title="🌐台剧",龙华日韩
+http://tv123.cc.cd/live.php?ch=1585&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=e67ec815a332d1c04c634dc96e4597f858fa9d96c33e737c39b5ae23349acaaf
 #EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/八大戏剧.png" group-title="🌐台剧",八大戏剧
 https://hls-gateway.vpstv.net/streams/488934.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/天映经典.png" group-title="🌐台剧",天映经典
@@ -572,7 +600,7 @@ https://cdn.qd.je/163189/dsdy
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森电影.png" group-title="🎬台影",东森电影
 https://ktpremium.world/live/LT1976F/A9177/870557.ts
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森电影.png" group-title="🎬台影",东森电影
-http://tv123.cc.cd/live.php?ch=2083&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=2d3dca5200a86d67f8df1a047c63809942b3d32a1c1e5854a115f0fc28e3514e
+http://tv123.cc.cd/live.php?ch=1982&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=57bd204aa5c85f6534d67c7bcf10ebaf37847867a94007f9ad9db0b0ecf00ebf
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/东森洋片.png" group-title="🎬台影",东森洋片
 https://hls-gateway.vpstv.net/streams/476997.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/纬来电影.png" group-title="🎬台影",纬来电影
@@ -612,11 +640,11 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天电影.png" group-title="🎬台影",靖天电影
 http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天电影.png" group-title="🎬台影",靖天电影
-http://tv123.cc.cd/live.php?ch=446&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=2876168d9727274086e8c6f67bc47db67289b3c6a254ec1519c9ad2f0f3b6a01
+https://ktpremium.world/live/LT1976F/A9177/995222.ts
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天电影.png" group-title="🎬台影",靖天电影
-http://tv123.cc.cd/live.php?ch=1776&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=ca729b01e417eeb48efc3a90f71df78c882d8bcf02880e2baa17bc892f3aa6ea
+http://tv123.cc.cd/live.php?ch=464&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=4c6f308af8397fdf80f3911bfa56e6fe8cd983fe38f2072c60bce7c599e840d0
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天电影.png" group-title="🎬台影",靖天电影
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8
+http://tv123.cc.cd/live.php?ch=1674&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=6c82cb743ed3fb438b623c87fdfe66e8af5a2514cb7d1e73bae8478ecadcd363
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
 https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
@@ -630,9 +658,7 @@ https://cdn.qd.je/163189/jtyh
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
 http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
-https://ktpremium.world/live/LT1976F/A9177/900862.ts
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
-http://tv123.cc.cd/live.php?ch=2052&sid=678819c261c7db82f41f66a36d0b437a&exp=1789320627&sig=f6e80b4bdff051b5dab8921bc078bec6b218adf9439485e6f5acd0b3555370df
+http://tv123.cc.cd/live.php?ch=1951&sid=bd816c725ced34feac6d48926916d7b0&exp=1789579755&sig=c85844bd9c1f277363bc799752a6b053d190c6bfa13c5a9d426bde913c1a00bf
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/靖天映画.png" group-title="🎬台影",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
@@ -641,6 +667,8 @@ https://hls-gateway.vpstv.net/streams/476212.m3u8
 https://hls-gateway.vpstv.net/streams/709286.m3u8
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
 https://hls-gateway.vpstv.net/streams/708901.m3u8
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
+https://iptv.707626.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/美亚电影.png" group-title="🎬台影",美亚电影
@@ -720,6 +748,8 @@ https://hls-gateway.vpstv.net/streams/709558.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
 https://hls-gateway.vpstv.net/streams/709647.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Bloomberg.png" group-title="🌎外语",Bloomberg
 https://hls-gateway.vpstv.net/streams/476638.m3u8
@@ -731,6 +761,8 @@ https://hls-gateway.vpstv.net/streams/709497.m3u8
 https://hls-gateway.vpstv.net/streams/476307.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/MovieSphere.png" group-title="🌎外语",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/MovieSphere.png" group-title="🌎外语",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CINEMAX.png" group-title="🌎外语",CINEMAX
 https://hls-gateway.vpstv.net/streams/476283.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CINEMAX.png" group-title="🌎外语",CINEMAX
