@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/bruceroe/iptv_api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-09-23 06:36:36
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/湖南卫视4K.png" group-title="🕘️更新时间",2026-09-23 21:15:10
 https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏卫视4K.png" group-title="🍀超清",江苏卫视4K
 https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
@@ -32,13 +32,9 @@ https://hls-gateway.vpstv.net/streams/708845.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
 http://fn.gcl.de5.net:5908/gsh950428/626065193
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
-http://www.ikerobot.com:1234/626065193
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏综艺.png" group-title="☘️江苏",江苏综艺
 https://live.chinacert.cftest5.cn/cnmg/live/626065193
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
 http://fn.gcl.de5.net:5908/gsh950428/626064697
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
-http://www.ikerobot.com:1234/626064697
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏影视.png" group-title="☘️江苏",江苏影视
 https://live.chinacert.cftest5.cn/cnmg/live/626064697
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏体育.png" group-title="☘️江苏",江苏体育
@@ -47,8 +43,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064707
 https://live.chinacert.cftest5.cn/cnmg/live/626064693
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
 http://fn.gcl.de5.net:5908/gsh950428/626064714
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
-http://www.ikerobot.com:1234/626064714
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏城市.png" group-title="☘️江苏",江苏城市
 https://live.chinacert.cftest5.cn/cnmg/live/626064714
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏教育.png" group-title="☘️江苏",江苏教育
@@ -61,8 +55,6 @@ http://www.ikerobot.com:1234/628008321
 https://live.chinacert.cftest5.cn/cnmg/live/628008321
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
 http://fn.gcl.de5.net:5908/gsh950428/626064674
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
-http://www.ikerobot.com:1234/626064674
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/江苏国际.png" group-title="☘️江苏",江苏国际
 https://live.chinacert.cftest5.cn/cnmg/live/626064674
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/南京少儿.png" group-title="☘️江苏",南京少儿
@@ -81,6 +73,8 @@ http://stream.thmz.com/wxtv5/playlist.m3u8
 http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 #EXTINF:-1 tvg-name="淮阴综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/淮阴综合.png" group-title="☘️江苏",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/河南电视剧.png" group-title="☘️河南",河南电视剧
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=9849a88f8ade51d4d1c5a752483b1290&wsTime=1790132641
 #EXTINF:-1 tvg-name="洛阳综合" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/洛阳综合.png" group-title="☘️河南",洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳科教" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/洛阳科教.png" group-title="☘️河南",洛阳科教
@@ -344,9 +338,9 @@ https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/澳视澳门.png" group-title="🌊港澳",澳视澳门
 https://cdn6.cc.cd/163189/asam
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/澳视澳门.png" group-title="🌊港澳",澳视澳门
-https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/澳视澳门.png" group-title="🌊港澳",澳视澳门
 https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/澳视澳门.png" group-title="🌊港澳",澳视澳门
+https://cdn.qd.je/163189/as
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌿新马",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Astro QJ.png" group-title="🌿新马",Astro QJ
@@ -617,8 +611,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
 https://jmp2.uk/stvp-GB3300002NF
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
-https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/Sky News.png" group-title="🌎外语",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gitee.com/bruce_roe/TVlogo/raw/main/img/CNA.png" group-title="🌎外语",CNA
